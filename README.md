@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aysedgyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aysedgyl" height="30" width="40" /></a>
-<a href="https://instagram.com/a_dgyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_dgyl" height="30" width="40" /></a>
+<a href="https://instagram.com/a_dgyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.dgyl" height="30" width="40" /></a>
 <a href="https://medium.com/@aysenurdgyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aysenurdgyl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/a_dgyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="a_dgyl" height="30" width="40" /></a>
 </p>
