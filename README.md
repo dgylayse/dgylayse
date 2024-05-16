@@ -32,3 +32,15 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dgylayse&theme=default"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+<div align="center">
+<p>Have a nice day!</p>
+<div>
+<img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true" alt="Smiley" align="center">
+</div>
+</div>
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/busecoban/count.svg" alt="hit counter" align="center">
+</div>
