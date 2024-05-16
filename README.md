@@ -42,5 +42,5 @@
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/busecoban/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/dgylayse/count.svg" alt="hit counter" align="center">
 </div>
