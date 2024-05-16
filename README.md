@@ -26,17 +26,6 @@
 
 ![](https://komarev.com/ghpvc/?username=dgylayse)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgylayse&show_icons=true&locale=en&layout=compact" alt="dgylayse" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgylayse&show_icons=true&locale=en" alt="dgylayse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgylayse&" alt="dgylayse" /></p>
-
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dgylayse&theme=default"/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 <div align="center">
 <p>Have a nice day!</p>
 <div>
