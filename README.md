@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayşenur&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20Engineer&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayşenur&text=DOĞUYEL&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineer&descAlignY=55&descSize=18" />
 
 <br>
 
@@ -43,12 +43,6 @@ Bilgiyi sadece öğrenmek değil, **uygulamak ve gerçek senaryolara dönüştü
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
 </p>
-
----
-
-## 🐍 Contribution Snake  
-
-<img src="https://raw.githubusercontent.com/dgylayse/dgylayse/output/github-contribution-grid-snake.svg" />
 
 ---
 
