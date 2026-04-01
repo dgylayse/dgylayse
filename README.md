@@ -49,7 +49,7 @@ Bilgiyi sadece öğrenmek değil, **uygulamak ve gerçek senaryolara dönüştü
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/aysedgyl/aysedgyl/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/dgylayse/dgylayse/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
