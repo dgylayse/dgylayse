@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayşenur&text=DOĞUYEL&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Engineer&descAlignY=55&descSize=18" />
-
-<br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayşenur%20DOĞUYEL&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cyber%20Security%20Engineer&descAlignY=55&descSize=18" />
+</div>
 
 ![Odak Alanı](https://img.shields.io/badge/Odak-Siber%20Güvenlik-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Takım](https://img.shields.io/badge/Alan-Red%20%26%20Blue%20Team-blue?style=for-the-badge&logo=probot&logoColor=white)
