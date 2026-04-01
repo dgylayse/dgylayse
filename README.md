@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ayşenur DOĞUYEL</h1>
 <h3 align="center">A passionate web pentest from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dgylayse&label=Profile%20views&color=0e75b6&style=flat" alt="dgylayse" /> </p>
+<p align="left"> <img src="https://www.udemy.com/course/android-telefon-oyun-hackleme-etik-hacker-egitimi/?srsltid=AfmBOorWRDfDlnho2zGcsaLgSXeeddW7U4QK0s5c-XDzOOkmzTqxeRWO" alt="dgylayse" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgylayse" alt="dgylayse" /></a> </p>
 
