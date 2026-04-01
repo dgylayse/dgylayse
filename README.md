@@ -48,9 +48,7 @@ Bilgiyi sadece öğrenmek değil, **uygulamak ve gerçek senaryolara dönüştü
 
 ## 🐍 Contribution Snake  
 
-<p align="center">
-  <img src="https://github.com/dgylayse/dgylayse/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/dgylayse/dgylayse/output/github-contribution-grid-snake.svg" />
 
 ---
 
