@@ -1,29 +1,74 @@
-<h1 align="center">Hi 👋, I'm Ayşenur DOĞUYEL</h1>
-<h3 align="center">A passionate web pentest from Turkey</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ayşenur&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cybersecurity%20Enthusiast%20%7C%20Engineer&descAlignY=55&descSize=18" />
 
-<p align="left"> <img src="https://www.udemy.com/course/android-telefon-oyun-hackleme-etik-hacker-egitimi/?srsltid=AfmBOorWRDfDlnho2zGcsaLgSXeeddW7U4QK0s5c-XDzOOkmzTqxeRWO" alt="dgylayse" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dgylayse" alt="dgylayse" /></a> </p>
+![Odak Alanı](https://img.shields.io/badge/Odak-Siber%20Güvenlik-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Takım](https://img.shields.io/badge/Alan-Red%20%26%20Blue%20Team-blue?style=for-the-badge&logo=probot&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aysedgyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aysedgyl" height="30" width="40" /></a>
-<a href="https://instagram.com/a.dgyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.dgyl" height="30" width="40" /></a>
-<a href="https://medium.com/@aysenurdgyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aysenurdgyl" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🚀 Hakkımda  
+
+Mühendislik altyapısıyla **siber güvenlik** alanında kendimi geliştirmeye odaklanıyorum.  
+Hem **Red Team (saldırı)** hem de **Blue Team (savunma)** tarafında ilerleyerek sistemleri bütünsel şekilde anlamayı hedefliyorum.  
+
+Bilgiyi sadece öğrenmek değil, **uygulamak ve gerçek senaryolara dönüştürmek** benim için öncelik.  
+Disiplinli çalışma ve sürekli gelişimle bu alanda uzmanlaşmayı hedefliyorum.
+
+---
+
+## 🛠️ Çalıştığım Alanlar  
+
+<table>
+  <tr>
+    <td>🔴 <b>Offensive Security:</b></td>
+    <td>Web Exploitation · Reconnaissance · Vulnerability Analysis · Pentest Temelleri</td>
+  </tr>
+  <tr>
+    <td>🔵 <b>Defensive Security:</b></td>
+    <td>Log Analizi · SIEM · Incident Response · Threat Detection</td>
+  </tr>
+  <tr>
+    <td>💻 <b>Teknik Altyapı:</b></td>
+    <td>Networking · Linux · Sistem Temelleri · Web Yapıları</td>
+  </tr>
+  <tr>
+    <td>🧠 <b>Yaklaşım:</b></td>
+    <td>Problem Solving · Analitik Düşünme · Sürekli Öğrenme</td>
+  </tr>
+</table>
+
+---
+
+## ⚙️ Kullandığım Teknolojiler  
+
+<br>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🌐 Bağlantılarım  
+
+<p align="center">
+<a href="https://linkedin.com/in/aysedgyl">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayşenur-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🎯 Hedef  
+
+> Siber güvenlik alanında hem saldırı hem savunma tarafını bilen, gerçek problemlere çözüm üreten bir uzman olmak.
+
+---
 
 <div align="center">
-<p>Have a nice day!</p>
-<div>
-<img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true" alt="Smiley" align="center">
-</div>
-</div>
-
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/dgylayse/count.svg" alt="hit counter" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
