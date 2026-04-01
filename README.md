@@ -1,5 +1,3 @@
-![MasterHead](https://bel-news.by/wp-content/uploads/2022/05/depositphotos_137835044_l-2015-pic905-895x505-18668.jpg)
-
 <h1 align="center">Hi 👋, I'm Ayşenur DOĞUYEL</h1>
 <h3 align="center">A passionate web pentest from Turkey</h3>
 
