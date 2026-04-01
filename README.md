@@ -16,7 +16,6 @@ Mühendislik altyapısıyla **siber güvenlik** alanında kendimi geliştirmeye 
 Hem **Red Team (saldırı)** hem de **Blue Team (savunma)** tarafında ilerleyerek sistemleri bütünsel şekilde anlamayı hedefliyorum.  
 
 Bilgiyi sadece öğrenmek değil, **uygulamak ve gerçek senaryolara dönüştürmek** benim için öncelik.  
-Disiplinli çalışma ve sürekli gelişimle bu alanda uzmanlaşmayı hedefliyorum.
 
 ---
 
@@ -35,20 +34,22 @@ Disiplinli çalışma ve sürekli gelişimle bu alanda uzmanlaşmayı hedefliyor
     <td>💻 <b>Teknik Altyapı:</b></td>
     <td>Networking · Linux · Sistem Temelleri · Web Yapıları</td>
   </tr>
-  <tr>
-    <td>🧠 <b>Yaklaşım:</b></td>
-    <td>Problem Solving · Analitik Düşünme · Sürekli Öğrenme</td>
-  </tr>
 </table>
 
 ---
 
-## ⚙️ Kullandığım Teknolojiler  
-
-<br>
+## ⚙️ Teknolojiler  
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/aysedgyl/aysedgyl/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -65,7 +66,7 @@ Disiplinli çalışma ve sürekli gelişimle bu alanda uzmanlaşmayı hedefliyor
 
 ## 🎯 Hedef  
 
-> Siber güvenlik alanında hem saldırı hem savunma tarafını bilen, gerçek problemlere çözüm üreten bir uzman olmak.
+> Siber güvenlik alanında hem saldırı hem savunma tarafını bilen güçlü bir uzman olmak.
 
 ---
 
